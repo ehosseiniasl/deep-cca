@@ -1,3 +1,4 @@
-# DCCA for feature fusion and classificaion 
+# Multiview Learning by DCCA
 ## Deep CCA (DCCA) network
+## MLP for Classification
 
